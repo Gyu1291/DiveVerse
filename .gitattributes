@@ -1,0 +1,5 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+Assets/Tokyo_Street/Other/Terrain.asset filter=lfs diff=lfs merge=lfs -text
+Assets/AgoraEngine/Plugins/iOS/AgoraRtcKit.framework/AgoraRtcKit filter=lfs diff=lfs merge=lfs -text
+emotion.zip filter=lfs diff=lfs merge=lfs -text
