@@ -1,6 +1,6 @@
 # DiveVerse
 
-<img src='https://ipfs.io/ipfs/QmeLuyi3fqrks8xbHjLz3msJkoQbaiXerc4GHoh1QJEe5A?filename=JapanBG.gif' width=600/>
+<img src='https://ipfs.io/ipfs/QmeLuyi3fqrks8xbHjLz3msJkoQbaiXerc4GHoh1QJEe5A?filename=JapanBG.gif' width=300/>
 
 DiveVerse는 AI컨트롤러 기반의 메타버스 플랫폼입니다.
 플레이어는 DiveVerse에서 새로운 사람을 만나고, 함께 소통하고 움직이며 놀 수 있습니다.
